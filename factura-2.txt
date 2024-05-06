@@ -1,0 +1,8 @@
+Fecha: 21/10/2023
+Numero de Factura: 2
+===================================
+Farmaco		Product		Cantidad	Precio Unitario	Total
+-----------------------------------
+Naproxeno		Aleve		5		8.5		42.5
+===================================
+IMPORTE: 42.5

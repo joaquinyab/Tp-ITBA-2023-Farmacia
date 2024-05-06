@@ -1,0 +1,5 @@
+Ranking de Ventas Año	 2023
+Proveedor Cantidad Importe
+--------------------------------
+PharmaCorp 5 79.95
+FarmaNet 6 51.0

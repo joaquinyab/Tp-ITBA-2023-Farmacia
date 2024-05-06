@@ -1,0 +1,9 @@
+Fecha: 20/10/2023
+Numero de Factura: 1
+===================================
+Farmaco		Product		Cantidad	Precio Unitario	Total
+-----------------------------------
+Paracetamol		Tafirol		5		15.99		79.95
+Naproxeno		Aleve		1		8.5		8.5
+===================================
+IMPORTE: 88.45
